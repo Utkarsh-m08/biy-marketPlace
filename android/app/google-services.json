@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709745839661",
+    "project_id": "biy-marketplace",
+    "storage_bucket": "biy-marketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709745839661:android:8659180ea466631a1232a4",
+        "android_client_info": {
+          "package_name": "com.example.biy_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0tOlmU6e4Cc43pr0ZO4TthIuCZhcewa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
